@@ -1,11 +1,11 @@
 package Class14;
 
-public class HMW03 {
+public class HMW03Palindrome {
 
     // Create a method that will print whether given String is palindrome or not.
 
     String palindrome (String word) {
-
+        word = word.toLowerCase();
         StringBuilder str = new StringBuilder(word);
         str.reverse();
 
@@ -18,8 +18,8 @@ public class HMW03 {
 
     public static void main(String[] args) {
 
-        HMW03 reverse = new HMW03();
-        reverse.palindrome("dad");
+        HMW03Palindrome reverse = new HMW03Palindrome();
+        reverse.palindrome("Dad");
         System.out.println(reverse.palindrome("mom"));
     }
 }

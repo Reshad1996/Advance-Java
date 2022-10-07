@@ -1,6 +1,6 @@
 package Class14;
 
-public class HMW07 {
+public class HMW07Grade {
 
     // Create  class Student that will have a method getGrade.
     // Your method should accept the score of a student and return a grade:
@@ -25,7 +25,7 @@ public class HMW07 {
     }
 
     public static void main(String[] args) {
-        HMW07 grade = new HMW07();
+        HMW07Grade grade = new HMW07Grade();
         grade.Student(85);
     }
 }

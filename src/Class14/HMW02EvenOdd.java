@@ -1,6 +1,6 @@
 package Class14;
 
-public class HMW02 {
+public class HMW02EvenOdd {
 
     // Create a method that will take a number and prints whether the number is even or odd.
 
@@ -13,7 +13,7 @@ public class HMW02 {
     }
     public static void main(String[] args) {
 
-        MethodsDemo03 md = new MethodsDemo03();
+        HMW02EvenOdd md = new HMW02EvenOdd();
 
         if (md.isEven(50)) {
             System.out.println("Number is Even");

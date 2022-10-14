@@ -1,0 +1,46 @@
+package Class21;
+
+public class OverRide_Employee {
+
+    String name;
+    double baseSalary=40000;
+    double bonus=20000;
+
+    void calculateSalary(){
+        System.out.println(baseSalary+bonus);
+    }
+
+}
+class Developer extends OverRide_Employee{
+
+    void calculateSalary(){
+        System.out.println(2*baseSalary+(1.5*bonus));
+    }
+
+}
+
+class Tester extends OverRide_Employee{
+
+    void calculateSalary(){
+        System.out.println(baseSalary+(2*bonus));
+    }
+}
+
+class OfficeBoy extends OverRide_Employee{
+
+
+    public static void main(String[] args) {
+
+
+            OfficeBoy officeBoy=new OfficeBoy();
+            officeBoy.calculateSalary();
+
+            Tester tester=new Tester();
+            tester.calculateSalary();
+
+            Developer developer=new Developer();
+            developer.calculateSalary();
+        }
+    }
+
+

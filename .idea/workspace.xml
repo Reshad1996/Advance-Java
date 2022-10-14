@@ -3,12 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="74cd6a26-585e-411f-a404-714ea0a92680" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class14/HMW01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class14/HMW01Larger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class14/HMW02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class14/HMW02EvenOdd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class14/HMW03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class14/HMW03Palindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class14/HMW04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class14/HMW04Language.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class14/HMW05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class14/HMW05Email.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class14/HMW07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class14/HMW07Grade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class16/Class17.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,13 +41,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ConstructorDemo02_Person">
-    <configuration name="ConstructorDemo02_Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class17.ConstructorDemo02_Person" />
+  <component name="RunManager" selected="Application.HMW02">
+    <configuration name="Browser_Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class21.Browser_Tester" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class17.*" />
+          <option name="PATTERN" value="Class21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +55,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstructorDemo_Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class17.ConstructorDemo_Dog" />
+    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class21.Dog" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class17.*" />
+          <option name="PATTERN" value="Class21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HMW01_SumOfAllElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class16.HMW01_SumOfAllElements" />
+    <configuration name="HMW01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class21.HMW01" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class16.*" />
+          <option name="PATTERN" value="Class21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HMW02_StringReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class16.HMW02_StringReverse" />
+    <configuration name="HMW01_Degree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class21.HMW01_Degree" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class16.*" />
+          <option name="PATTERN" value="Class21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HMW03_Vowel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class16.HMW03_Vowel" />
+    <configuration name="HMW02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class21.HMW02" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class16.*" />
+          <option name="PATTERN" value="Class21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ConstructorDemo02_Person" />
-        <item itemvalue="Application.ConstructorDemo_Dog" />
-        <item itemvalue="Application.HMW03_Vowel" />
-        <item itemvalue="Application.HMW02_StringReverse" />
-        <item itemvalue="Application.HMW01_SumOfAllElements" />
+        <item itemvalue="Application.HMW02" />
+        <item itemvalue="Application.HMW01_Degree" />
+        <item itemvalue="Application.HMW01" />
+        <item itemvalue="Application.Browser_Tester" />
+        <item itemvalue="Application.Dog" />
       </list>
     </recent_temporary>
   </component>
@@ -143,5 +138,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Class19/HMW03_Teacher.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

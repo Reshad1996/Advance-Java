@@ -21,9 +21,7 @@ public class HMW01_Degree {
     }
  }
  class Bachelors extends Degree{
-     public void getPrerequisite() {
 
-     }
  }
  class Masters extends Degree{
      public void getPrerequisite() {

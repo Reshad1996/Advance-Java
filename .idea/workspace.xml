@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="74cd6a26-585e-411f-a404-714ea0a92680" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class16/Class17.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class21/HMW01_Degree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class21/HMW01_Degree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +18,7 @@
       <list>
         <option value="Enum" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -41,13 +42,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HMW02">
-    <configuration name="Browser_Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class21.Browser_Tester" />
+  <component name="RunManager" selected="Application.WebDriver_Tester">
+    <configuration name="FirefoxDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class23.FirefoxDriver" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class21.*" />
+          <option name="PATTERN" value="Class23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,12 +56,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class21.Dog" />
+    <configuration name="IBM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class23.IBM" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class21.*" />
+          <option name="PATTERN" value="Class23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HMW01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class21.HMW01" />
+    <configuration name="MethodOverLoadingDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class20.MethodOverLoadingDemo1" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class21.*" />
+          <option name="PATTERN" value="Class20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HMW01_Degree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class21.HMW01_Degree" />
+    <configuration name="PdfFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class23.PdfFile" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class21.*" />
+          <option name="PATTERN" value="Class23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HMW02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class21.HMW02" />
+    <configuration name="WebDriver_Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class22.WebDriver_Tester" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class21.*" />
+          <option name="PATTERN" value="Class22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HMW02" />
-        <item itemvalue="Application.HMW01_Degree" />
-        <item itemvalue="Application.HMW01" />
-        <item itemvalue="Application.Browser_Tester" />
-        <item itemvalue="Application.Dog" />
+        <item itemvalue="Application.WebDriver_Tester" />
+        <item itemvalue="Application.MethodOverLoadingDemo1" />
+        <item itemvalue="Application.FirefoxDriver" />
+        <item itemvalue="Application.PdfFile" />
+        <item itemvalue="Application.IBM" />
       </list>
     </recent_temporary>
   </component>

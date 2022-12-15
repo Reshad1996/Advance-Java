@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="74cd6a26-585e-411f-a404-714ea0a92680" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SDETBatch14Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SDETBatch14Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class25/HMW03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class25/HMW03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,13 +50,13 @@
       <recent name="C:\Users\argul\IdeaProjects\SDETBatch14Java\Data" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExceptionDemo02">
-    <configuration name="ExcelDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class28.ExcelDemo01" />
+  <component name="RunManager" selected="Application.Student">
+    <configuration name="HMW02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class13.HMW02" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class28.*" />
+          <option name="PATTERN" value="Class13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class30.ExceptionDemo02" />
+    <configuration name="MapDemo04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class27.MapDemo04" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class30.*" />
+          <option name="PATTERN" value="Class27.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hey" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Review.Class13.Hey" />
+    <configuration name="StringBufferVsBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class14.StringBufferVsBuilder" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Review.Class13.*" />
+          <option name="PATTERN" value="Class14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapsDemo05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class28.MapsDemo05" />
+    <configuration name="StringMethodRecap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class14.StringMethodRecap" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class28.*" />
+          <option name="PATTERN" value="Class14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadingExcelFileDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class29.ReadingExcelFileDemo01" />
+    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class15.Student" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class29.*" />
+          <option name="PATTERN" value="Class15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExceptionDemo02" />
-        <item itemvalue="Application.Hey" />
-        <item itemvalue="Application.ReadingExcelFileDemo01" />
-        <item itemvalue="Application.ExcelDemo01" />
-        <item itemvalue="Application.MapsDemo05" />
+        <item itemvalue="Application.Student" />
+        <item itemvalue="Application.StringMethodRecap" />
+        <item itemvalue="Application.StringBufferVsBuilder" />
+        <item itemvalue="Application.HMW02" />
+        <item itemvalue="Application.MapDemo04" />
       </list>
     </recent_temporary>
   </component>
